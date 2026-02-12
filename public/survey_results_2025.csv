@@ -1,0 +1,159 @@
+﻿User ID,User display name,Timestamp,আপনি কত সালে প্রথমবার লিনাক্স ব্যবহার করেছেন?,আপনি প্রথমবার কোন ওএস ব্যবহার করছেন?,আপনি এখন কোন প্রসেসর ব্যবহার করছেন?,আপনার সিস্টেমে কত RAM আছে?,আপনি এখন কোন ওএস ব্যবহার করছেন?,আপনি এখন কোন ডেস্কটপ এনভায়রনমেন্ট ব্যবহার করছেন?,আপনি কি টাইলিং উইন্ডো ম্যানেজার ব্যবহার করেন?,আপনি এখন কোন টাইলিং উইন্ডো ম্যানেজার ব্যবহার করছেন?,আপনি কোন টার্মিনাল এমুলেটর ব্যবহার করেন?,আপনার প্রিয় শেল (Shell) কোনটি?,আপনি কোন বাংলা কিবোর্ড লেআউট ব্যবহার করেন?,আপনি এখন কোন ব্রাউজার ব্যবহার করছেন?,আপনি নোট নেওয়ার জন্য কোন অ্যাপ ব্যবহার করেন?,আপনি কোন পাসওয়ার্ড ম্যানেজার ব্যবহার করেন?
+,Anonymous user,2025-12-14T19:05:29+06:00,,,x86_64,16GB,,GNOME,হ্যাঁ,Awesome,GNOME Terminal,Bash,প্রভাত,Mozilla Firefox,Notion; Obsidian; Google Keep,"Bitwarden; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-15T19:45:21+06:00,2023,Manjaro,x86_64,8GB,ArchLinux,KDE,না,Default,Kitty,Zsh,জাতীয়,Mozilla Firefox,Notion; Google Keep,Google Password Manager
+,Anonymous user,2025-12-16T10:53:09+06:00,2009,Ubuntu,x86_64,12GB,Ubuntu,GNOME,না,None,GNOME Terminal,Zsh,অভ্র,Mozilla Firefox,Google Keep,Bitwarden
+,Anonymous user,2025-12-16T11:00:48+06:00,2020,Ubuntu,x86,16GB,ArchLinux,KDE,না,,Konsole,Zsh,প্রভাত,Mozilla Firefox,Google Keep,Bitwarden
+,Anonymous user,2025-12-16T11:02:15+06:00,2020,Ubuntu,x86_64,16GB,ArchLinux,i3wm,হ্যাঁ,i3wm,Xfce Terminal,Bash,None,Chromium,Google Keep; Neovim,Bitwarden
+,Anonymous user,2025-12-16T11:07:52+06:00,2012,Ubuntu,x86_64,16GB,Linux Mint,XFCE,না,None,,Bash,প্রভাত,Brave,Notesnook,Bitwarden
+,Anonymous user,2025-12-16T11:08:03+06:00,2016,Lubuntu,x86_64,32GB,Manjaro,XFCE,না,,Xfce Terminal,Zsh,অভ্র,Brave,NotesHub,Bitwarden
+,Anonymous user,2025-12-16T11:08:52+06:00,2020,ArchLinux,x86_64,8GB,ArchLinux,KDE,না,,Konsole,Fish,অভ্র,Waterfox,Obsidian,"Proton Pass; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T11:09:00+06:00,2018,Ubuntu,x86,16GB,Ubuntu,GNOME,না,None,GNOME Terminal,Zsh,ক্ষিপ্র,Brave,Obsidian,
+,Anonymous user,2025-12-16T11:15:47+06:00,2015,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,Ubuntu Terminal,Zsh,প্রভাত,Mozilla Firefox,Obsidian; Apple Notes,Bitwarden
+,Anonymous user,2025-12-16T11:21:03+06:00,,,,,,KDE,না,,Konsole,Zsh,অভ্র,Mozilla Firefox,Google Keep,Bitwarden
+,Anonymous user,2025-12-16T11:21:59+06:00,2022,ArchLinux,x86_64,8GB,ArchLinux,Custom,হ্যাঁ,Sway,Alacritty,Zsh,অভ্র,Brave,Google Keep,None
+,Anonymous user,2025-12-16T11:23:00+06:00,2018,Kali Linux,x86_64,16GB,ArchLinux,Hyperland,হ্যাঁ,Hyprland,Alacritty,Zsh,অভ্র,Mozilla Firefox,Notion,
+,Anonymous user,2025-12-16T11:24:51+06:00,2018,Ubuntu,x86,16GB,ArtixLinux,DWM,হ্যাঁ,DWM,Suckless Terminal,Zsh,প্রভাত,Mozilla Firefox,ORG in Emacs,Proton Pass
+,Anonymous user,2025-12-16T11:52:55+06:00,2021,,arm64,6GB,Kali Linux,GNOME,হ্যাঁ,Hyprland,GNOME Terminal,Zsh,অভ্র,Brave,Notion; Obsidian,Brave pass
+,Anonymous user,2025-12-16T11:53:52+06:00,2020,Ubuntu,x86_64,16GB,ArchLinux,None,হ্যাঁ,Hyprland,Kitty,Zsh,অভ্র,Microsoft Edge,None,None
+,Anonymous user,2025-12-16T11:55:02+06:00,,Ubuntu,x86_64,64GB,ArchLinux,KDE,না,None,Konsole,Bash,অভ্র,Microsoft Edge,Google Keep; Apple Notes,Apple Passwords
+,Anonymous user,2025-12-16T12:02:28+06:00,2023,Linux Mint,x86_64,16GB,Fedora,GNOME,না,None,GNOME Terminal,Fish,ক্ষিপ্র,Microsoft Edge,Notion; Telegram,Bitwarden
+,Anonymous user,2025-12-16T12:08:15+06:00,2024,ArchLinux,arm64,16GB,ArchLinux,GNOME,হ্যাঁ,Hyprland,Alacritty,Bash,অভ্র,Brave,Notion,"Bitwarden; Proton Pass; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T12:25:03+06:00,2019,Elementary OS,x86_64,16GB,ArchLinux,GNOME,না,,GNOME Terminal,Bash,জাতীয়,Mozilla Firefox,Notesnook,Proton Pass
+,Anonymous user,2025-12-16T12:26:26+06:00,2014,Ubuntu,x86_64,8GB,ArchLinux,i3WM,হ্যাঁ,i3wm,Kitty,Zsh,জাতীয়,Mozilla Firefox,Notion; Obsidian; Google Keep,Bitwarden
+,Anonymous user,2025-12-16T12:27:54+06:00,2018,Ubuntu,x86_64,32GB,Ubuntu,GNOME,হ্যাঁ,Not sure ,GNOME Terminal,Bash,অভ্র,Brave,Google Docs ,None
+,Anonymous user,2025-12-16T12:29:30+06:00,2014,Linux Mint,x86_64,16GB,ArchLinux,GNOME,না,,GNOME Terminal,Fish,অভ্র,Microsoft Edge,Obsidian,Bitwarden
+,Anonymous user,2025-12-16T12:32:38+06:00,2016,Ubuntu,x86_64,32GB,Fedora,KDE,না,,Konsole,Bash,প্রভাত,Mozilla Firefox,Apple Notes,Bitwarden
+,Anonymous user,2025-12-16T12:34:48+06:00,2022,Ubuntu,x86,16GB,Fedora,GNOME,না,,Kitty,Zsh,অভ্র,Brave,Obsidian,
+,Anonymous user,2025-12-16T12:35:38+06:00,2018,Ubuntu,x86_64,16GB,ArchLinux,KDE,হ্যাঁ,Awesome,Konsole,Zsh,প্রভাত,Google Chrome,Google Keep,Proton Pass
+,Anonymous user,2025-12-16T12:38:13+06:00,2023,Ubuntu,arm64,8GB,Ubuntu,GNOME,হ্যাঁ,i3wm,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Google Keep,None
+,Anonymous user,2025-12-16T12:40:02+06:00,2015,Ubuntu,x86_64,12GB,Fedora,GNOME,না,,GNOME Terminal,Bash,জাতীয়,Mozilla Firefox,Obsidian,
+,Anonymous user,2025-12-16T12:50:32+06:00,2020,Linux Mint,x86_64,16GB,CachyOS,KDE,না,,Konsole,Fish,প্রভাত,Zen,Beaver Note,Bitwarden
+,Anonymous user,2025-12-16T12:52:01+06:00,2023,Fedora,x86_64,8GB,ArchLinux,Hyprland,হ্যাঁ,Hyprland,Kitty,Zsh,অভ্র,Zen,Obsidian,Bitwarden
+,Anonymous user,2025-12-16T12:52:14+06:00,2024,Ubuntu,x86_64,8GB,Ubuntu,GNOME,না,Hyprland,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Google Keep,Proton Pass
+,Anonymous user,2025-12-16T13:06:19+06:00,2013,Ubuntu,x86_64,16GB,Manjaro,KDE,না,KWin,Warp,Zsh,প্রভাত,Brave,Notion,Bitwarden
+,Anonymous user,2025-12-16T13:09:05+06:00,2017,Ubuntu,x86_64,8GB,Debian,XFCE,না,Hyprland,GNOME Terminal,Bash,অভ্র,Brave,Notion,Bitwarden
+,Anonymous user,2025-12-16T13:16:31+06:00,2024,Ubuntu,x86_64,12GB,Ubuntu,UBUNTU,হ্যাঁ,Hyprland,GNOME Terminal,Bash,প্রভাত,Brave,Google Keep,Proton Pass
+,Anonymous user,2025-12-16T13:18:28+06:00,2020,Ubuntu,x86_64,16GB,Fedora,GNOME,না,,Kitty,Fish,অভ্র,Vivaldi ,Notesnook; Obsidian,Bitwarden; Proton Pass
+,Anonymous user,2025-12-16T13:19:18+06:00,2015,Ubuntu,x86,32GB,Windows,,না,,,Bash,অভ্র,Google Chrome,Google Keep,
+,Anonymous user,2025-12-16T13:24:22+06:00,2018,Ubuntu,x86_64,8GB,Linux Mint,Cinnamon,না,Cinnamon,GNOME Terminal,Zsh,প্রভাত,Mozilla Firefox,Google Keep; Obsidian,Proton Pass
+,Anonymous user,2025-12-16T13:29:51+06:00,2018,Opensuse,x86_64,16GB,Debian,KDE,হ্যাঁ,i3wm,Konsole,Bash,অভ্র,Mozilla Firefox,Evernote,Bitwarden
+,Anonymous user,2025-12-16T13:31:57+06:00,2016,Debian,x86_64,16GB,OpenSUSE,KDE,হ্যাঁ,DWM,Konsole,Bash,অভ্র,Mozilla Firefox,Evernote,Bitwarden
+,Anonymous user,2025-12-16T13:35:46+06:00,2025,Ubuntu,x86,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Notion,
+,Anonymous user,2025-12-16T13:37:06+06:00,2020,Ubuntu,,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Notion,
+,Anonymous user,2025-12-16T13:46:54+06:00,2005,Ubuntu,x86_64,16GB,Ubuntu,LXDE,হ্যাঁ,Hyprland,Konsole,Bash,জাতীয়,Mozilla Firefox,Notesnook,Proton Pass
+,Anonymous user,2025-12-16T13:49:31+06:00,2010,CentOS,x86_64,16GB,Ubuntu,GNOME,হ্যাঁ,i3wm,Kitty,Bash,,Brave,Google Keep,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T13:51:02+06:00,2019,Debian,x86_64,8GB,ArchLinux,GNOME,হ্যাঁ,Hyprland,Konsole,Bash,অভ্র,Mozilla Firefox,Notesnook,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T13:56:46+06:00,2003,Red Hat,x86_64,8GB,Ubuntu,GNOME,না,None,None,Bash,অভ্র,Waterfox,Google Keep,None
+,Anonymous user,2025-12-16T13:57:03+06:00,2017,Ubuntu,x86_64,16GB,CachyOS,KDE,না,,Kitty,Fish,,Brave,,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T14:07:15+06:00,2023,Ubuntu,x86_64,8GB,ArchLinux,KDE,না,,Konsole,Bash,অভ্র,Brave,notallyX,
+,Anonymous user,2025-12-16T14:11:20+06:00,,Debian,x86_64,16GB,Ubuntu,GNOME,হ্যাঁ,i3wm,GNOME Terminal,Bash,অভ্র,Brave,Simple Note,Bitwarden
+,Anonymous user,2025-12-16T14:13:30+06:00,,Linux Mint,x86_64,8GB,Ubuntu,GNOME,,,GNOME Terminal,Zsh,অভ্র,Brave,Notion; Samsung Notes,
+,Anonymous user,2025-12-16T14:14:18+06:00,2010,CentOS,"x86_64; arm64",16GB,ArchLinux,None,হ্যাঁ,"Hyprland, Awesome",Kitty,Zsh,প্রভাত,Vivaldi,Obsidian,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T14:25:12+06:00,2006,Red Hat,x86,16GB,Ubuntu,KDE,হ্যাঁ,Awesome,GNOME Terminal,Bash,অভ্র,Google Chrome,Evernote,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T14:31:33+06:00,2021,Ubuntu,x86_64,16GB,ArchLinux,KDE,না,Kwin,Konsole,Zsh,জাতীয়,Mozilla Firefox,Obsidian; Google Keep,Bitwarden
+,Anonymous user,2025-12-16T14:32:54+06:00,2013,Parrot Linux,arm64,8GB,CachyOS,KDE,না,,Fish Shell,Fish,অভ্র,Brave,Google Keep,None
+,Anonymous user,2025-12-16T14:33:19+06:00,2018,Ubuntu,x86_64,24GB,ArchLinux,KDE,না,,Konsole,Zsh,প্রভাত,Brave,,
+,Anonymous user,2025-12-16T14:45:21+06:00,2018,Ubuntu,x86_64,16GB,Fedora,GNOME,না,,Ptyxis,Bash,ক্ষিপ্র,Zen Browser,Quillpad,Vaultwarden
+,Anonymous user,2025-12-16T15:00:38+06:00,2024,ArchLinux,x86_64,4GB,EndaevourOS,KDE,হ্যাঁ,Hyprland,Kitty,Bash,অভ্র,Mozilla Firefox,,
+,Anonymous user,2025-12-16T15:23:10+06:00,2024,Linux Mint,x86_64,8GB,Fedora,GNOME,না,,GNOME Terminal,Bash,ক্ষিপ্র,Mozilla Firefox,Google Keep,Vaultwarden
+,Anonymous user,2025-12-16T15:33:43+06:00,2024,Ubuntu,x86_64,8GB,Ubuntu,GNOME,না,No idea,GNOME Terminal,Bash,জাতীয়,Microsoft Edge,Google Keep,Proton Pass
+,Anonymous user,2025-12-16T15:39:16+06:00,,Ubuntu,arm64,8GB,Ubuntu,GNOME,না,,,Bash,অভ্র,Google Chrome,Notion; Google Keep,
+,Anonymous user,2025-12-16T15:45:56+06:00,2024,Red Hat,x86_64,16GB,Ubuntu,GNOME,হ্যাঁ,Hyprland,GNOME Terminal,Bash,অভ্র,Google Chrome,Google Keep; Notesnook,Vaultwarden
+,Anonymous user,2025-12-16T15:46:19+06:00,2020,Linux Mint,x86,8GB,ArchLinux,GNOME,হ্যাঁ,Hyprland,Kitty,Zsh,প্রভাত,Brave,Obsidian; Notion,Bitwarden
+,Anonymous user,2025-12-16T15:51:20+06:00,,Windows,x86_64,8GB,ArchLinux,KDE,না,i3wm,GNOME Terminal,Bash,প্রভাত,Mozilla Firefox,Notion,Proton Pass
+,Anonymous user,2025-12-16T16:00:50+06:00,2025,Linux Mint,x86_64,8GB,Linux Mint,Cinnamon ,না,None,Konsole,Fish,অভ্র,Google Chrome,Notion; Google Keep,Google Password Manager 
+,Anonymous user,2025-12-16T16:21:08+06:00,2012,Ubuntu,x86_64,16GB,Fedora,GNOME,না,,GNOME Terminal,Bash,প্রভাত,Opera,Samsung Notes,Opera Password Manager; Samsung Passcode
+,Anonymous user,2025-12-16T16:34:53+06:00,2020,Ubuntu,x86_64,8GB,Fedora,GNOME,না,,GNOME Terminal,Zsh,অভ্র,Brave,Obsidian,"Proton Pass; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T16:43:38+06:00,2016,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,প্রভাত,Google Chrome,I don't take note,None
+,Anonymous user,2025-12-16T16:44:44+06:00,2019,Ubuntu,x86_64,16GB,ArchLinux,KDE,হ্যাঁ,Hyprland,Konsole,Zsh,অভ্র,Mozilla Firefox,Obsidian,Bitwarden
+,Anonymous user,2025-12-16T17:09:52+06:00,2017,Ubuntu,x86_64,8GB,Ubuntu,GNOME,না,,GNOME Terminal,,,Microsoft Edge,Google Keep,Bitwarden
+,Anonymous user,2025-12-16T17:10:59+06:00,2012,Ubuntu,arm64,8GB,Kubuntu,KDE,না,No idea,GNOME Terminal,Bash,অভ্র,Opera,Google Keep,Bitwarden
+,Anonymous user,2025-12-16T17:22:26+06:00,2025,Debian,x86_64,4GB,Debian,GNOME,না,,,Zsh,জাতীয়,Mozilla Firefox,Google Keep,Google Keep
+,Anonymous user,2025-12-16T17:56:31+06:00,2017,Ubuntu,x86_64,16GB,ArchLinux,XFCE,হ্যাঁ,Hyprland,Konsole,Bash,অভ্র,Brave,Notion; Obsidian; Notesnook,"Bitwarden; Proton Pass; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T18:18:50+06:00,2013,Debian,x86_64,16GB,Debian,"KDE; XFCE",না,None,Konsole,Bash,অভ্র,"Chrome, Firefox",Notion; Obsidian,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T18:38:40+06:00,2020,Ubuntu,x86_64,16GB,ArchLinux,Hyprland,হ্যাঁ,Hyprland,Kitty,Zsh,অভ্র,Brave,Obsidian,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-16T18:55:33+06:00,2024,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,GNOME Terminal,,,Mozilla Firefox,Notion; Obsidian,
+,Anonymous user,2025-12-16T19:03:19+06:00,2022,Ubuntu,x86,32GB,ArchLinux,GNOME,না,,GNOME Terminal,Bash,অভ্র,Google Chrome,Notion; Obsidian,
+,Anonymous user,2025-12-16T19:06:37+06:00,2023,Ubuntu,x86_64,8GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Google Keep,None
+,Anonymous user,2025-12-16T19:40:15+06:00,2022,ArchLinux,x86_64,16GB,ArchLinux,XFCE,না,Hyprland,Xfce Terminal,Fish,অভ্র,Brave,Notesnook,Bitwarden
+,Anonymous user,2025-12-16T20:35:21+06:00,2024,Linux Mint,x86_64,8GB,Fedora,GNOME,না,,GNOME Terminal,None,জাতীয়,Mozilla Firefox + Tor Browser,Joplin,Proton Pass; Bitwarden
+,Anonymous user,2025-12-16T20:35:46+06:00,2023,Linux Mint,x86_64,8GB,Debian,GNOME,না,None,GNOME Terminal,Bash,অভ্র,Yandex,Google Keep,Proton Pass
+,Anonymous user,2025-12-16T20:52:43+06:00,2018,Ubuntu,arm64,32GB,Windows,,,,GNOME Terminal,Bash,অভ্র,Brave,Google Keep,
+,Anonymous user,2025-12-16T20:59:46+06:00,2016,Xubuntu,x86_64,16GB,Linux Mint,Cinnamon,না,,,Zsh,প্রভাত,Brave,Google Keep; Simplenote,Bitwarden
+,Anonymous user,2025-12-16T21:19:58+06:00,2023,Ubuntu,x86_64,8GB,Fedora,GNOME,না,No idea,GNOME Terminal,Bash,অভ্র,WaterFox,Google Keep,Bitwarden
+,Anonymous user,2025-12-16T21:37:35+06:00,2023,Linux Mint,x86_64,8GB,ArchLinux,KDE,হ্যাঁ,Hyprland,Foot,Fish,প্রভাত,Zen,Appflowy,
+,Anonymous user,2025-12-16T22:32:37+06:00,2024,Ubuntu,x86_64,4GB,ArchLinux,XFCE,না,i3wm,Kitty,Zsh,অভ্র,Microsoft Edge,Obsidian; Google Keep,Proton Pass
+,Anonymous user,2025-12-16T22:33:53+06:00,2023,Ubuntu,x86_64,8GB,Fedora,GNOME,না,,GNOME Terminal,Bash,অভ্র,Google Chrome,Google Keep,
+,Anonymous user,2025-12-16T23:11:01+06:00,2009,Linux Mint,x86_64,32GB,ArchLinux,BSPWM;Hyprland,হ্যাঁ,bspwm and hyprland,Alacritty,Fish,,Librewolf,,
+,Anonymous user,2025-12-16T23:11:23+06:00,,Linux Mint,x86,16GB,Manjaro,XFCE,হ্যাঁ,i3wm,Mint,Zsh,,Brave,Obsidian,Bitwarden
+,Anonymous user,2025-12-16T23:13:09+06:00,2015,Ubuntu,x86_64,16GB,Manjaro,KDE;XFCE,না,,Konsole,Fish,অভ্র,Vivaldi,Obsidian; Google Keep; Samsung Notes,"KeePass (KeePassXC, KeePassDX); Bitwarden"
+,Anonymous user,2025-12-16T23:21:36+06:00,2024,Linux Mint,x86_64,8GB,Linux Mint,GNOME,না,Never used,Don't know,Don't know,অভ্র,Brave,Google Keep,None
+,Anonymous user,2025-12-16T23:28:40+06:00,,Ubuntu,x86_64,24GB,Ubuntu,GNOME,হ্যাঁ,Hyprland,GNOME Terminal,Zsh,None,Brave,Google Keep; Google Sheet,None
+,Anonymous user,2025-12-17T00:02:49+06:00,2018,Ubuntu,x86_64,16GB,Pop!_OS,Cosmic,না,Cosmic,Cosmic Terminal,Bash,প্রভাত,Google Chrome,Joplin,Bitwarden
+,Anonymous user,2025-12-17T00:03:05+06:00,2016,Ubuntu,x86_64,16GB,Fedora,GNOME,না,None,GNOME Terminal,Zsh,অভ্র,Mozilla Firefox,Obsidian; Notion,None
+,Anonymous user,2025-12-17T00:27:22+06:00,2019,Ubuntu,x86,16GB,Pop!_OS,Cosmic,হ্যাঁ,Cosmic,Konsole,Bash,None,Google Chrome,Obsidian,None
+,Anonymous user,2025-12-17T00:28:53+06:00,2017,Ubuntu,x86_64,32GB,ArchLinux,Openbox,হ্যাঁ,bspwm,warp,Zsh,প্রভাত,Google Chrome,Notion; Google Keep,
+,Anonymous user,2025-12-17T01:41:13+06:00,2011,Ubuntu,x86_64,8GB,Debian,XFCE,না,None,Kitty,Bash,অভ্র,Google Chrome,Evernote; Google Keep,"Proton Pass; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-17T02:20:31+06:00,2014,Linux Mint,x86_64,16GB,Linux Mint,Cinnamon,না,None,Default,Bash,Google Input Tools,Mozilla Firefox,Anytype,Firefox
+,Anonymous user,2025-12-17T04:45:00+06:00,2017,Ubuntu,x86_64,4GB,ArchLinux,GNOME,হ্যাঁ,Hyprland,Ghostty,Zsh,অভ্র,Vivaldi,Google Keep,Bitwarden
+,Anonymous user,2025-12-17T06:39:25+06:00,2021,Ubuntu,x86_64,16GB,Ubuntu,GNOME,হ্যাঁ,Hyprland,Kitty,Zsh,প্রভাত,Brave,Obsidian,
+,Anonymous user,2025-12-17T07:52:07+06:00,,Ubuntu,x86_64,32GB,Ubuntu,KDE,,Awesome,GNOME Terminal,Bash,অভ্র,Google Chrome,Notion; Google Keep,Bitwarden
+,Anonymous user,2025-12-17T07:54:53+06:00,1998,Red Hat,x86_64,24GB,Kubuntu,KDE,না,None,Yakuake,Bash,প্রভাত,Mozilla Firefox,Google Keep,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-17T10:12:53+06:00,2019,Ubuntu,x86_64,16GB,Fedora,KDE,না,Awesome,Konsole,Bash,অভ্র,Brave,Google Keep,Proton Pass
+,Anonymous user,2025-12-17T10:57:31+06:00,2015,Ubuntu,arm64,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,অভ্র,Google Chrome,Joplin,
+,Anonymous user,2025-12-17T12:03:10+06:00,2018,Ubuntu,x86_64,8GB,Ubuntu,GNOME,হ্যাঁ,Awesome,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Notion,Bitwarden
+,Anonymous user,2025-12-17T12:20:49+06:00,2021,Ubuntu,x86_64,16GB,Manjaro,GNOME,না,,GNOME Terminal,Bash,অভ্র,Microsoft Edge,Google Keep,
+,Anonymous user,2025-12-17T14:28:25+06:00,2024,Fedora,x86_64,16GB,Fedora,GNOME,না,Hyprland,GNOME Terminal,Bash,অভ্র,Zen,Handbook,Brain
+,Anonymous user,2025-12-17T15:01:24+06:00,2014,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,অভ্র,Google Chrome,Google Keep; Apple Notes,Proton Pass
+,Anonymous user,2025-12-17T15:48:50+06:00,2017,Ubuntu,x86_64,16GB,Void Linux,KDE,না,None,Konsole,Zsh,অভ্র,Brave,Google Keep,None
+,Anonymous user,2025-12-17T16:36:13+06:00,2016,Ubuntu,x86_64,8GB,Ubuntu,KDE,না,None,GNOME Terminal,Bash,প্রভাত,Mozilla Firefox,Obsidian; Google Keep,"Bitwarden; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-17T19:36:47+06:00,2017,Ubuntu,x86_64,12GB,EOS ,XFCE,না,Hyprland,Ghosty ,Fish,OpenBangla Keyboard,Mozilla Firefox,Google Keep,Proton Pass
+,Anonymous user,2025-12-17T20:05:54+06:00,2016,Xubuntu,x86_64,16GB,Linux Mint,Cinnamon,না,,GNOME Terminal,Bash,প্রভাত,Brave,Google Keep; Simplenote,Bitwarden
+,Anonymous user,2025-12-17T21:56:07+06:00,2019,Ubuntu,x86,20GB,Fedora,GNOME,হ্যাঁ,Awesome,GNOME Terminal,Bash,অভ্র,Brave,Google Keep,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-17T22:02:58+06:00,2015,Linux Mint,x86_64,32GB,ArchLinux,XFCE,না,,Kitty,Zsh,অভ্র,Mozilla Firefox,,Firefox
+,Anonymous user,2025-12-18T01:28:54+06:00,2017,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,Guake,Zsh,প্রভাত,Google Chrome,Notion; Google Keep,Bitwarden
+,Anonymous user,2025-12-18T02:04:48+06:00,2023,ArchLinux,x86_64,16GB,ArchLinux,None,হ্যাঁ,xmonad,Alacritty,Bash,OpenBangla Keyboard,Brave,Neovim,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-18T09:11:53+06:00,2018,Ubuntu,x86_64,8GB,ArchLinux,KDE,হ্যাঁ,Hyprland,Konsole,Bash,অভ্র,Brave,Obsidian,None
+,Anonymous user,2025-12-18T10:20:14+06:00,,Ubuntu,x86_64,16GB,Pop!_OS,GNOME,হ্যাঁ,,GNOME Terminal,Zsh,অভ্র,Brave,,
+,Anonymous user,2025-12-18T10:57:14+06:00,2008,Ubuntu,x86_64,4GB,Ubuntu,XFCE,হ্যাঁ,i3wm,Alacritty,Zsh,অভ্র,Brave,Notion; Notesnook; Google Keep; Apple Notes,Own customized application
+,Anonymous user,2025-12-18T11:40:54+06:00,2007,Ubuntu,x86_64,64GB,Ubuntu,GNOME,না,None,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Google Keep,Bitwarden
+,Anonymous user,2025-12-18T14:30:56+06:00,2005,Fedora,x86_64,8GB,Ubuntu,GNOME,না,i3wm,GNOME Terminal,Bash,অভ্র,Google Chrome,Evernote,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-18T15:59:22+06:00,2008,Ubuntu,x86,32GB,CentOS ,GNOME,না,i3wm,Konsole,Bash,,Brave,Evernote; Notesnook; Google Keep,
+,Anonymous user,2025-12-18T17:27:54+06:00,2024,ArchLinux,x86_64,4GB,ArchLinux,KDE,হ্যাঁ,Hyprland,Konsole,Bash,Bijoy,Mozilla Firefox,Text documents (.txt),None
+,Anonymous user,2025-12-18T19:53:02+06:00,2019,Kali Linux,x86_64,8GB,ArchLinux,,হ্যাঁ,i3wm,Kitty,Fish,,Mozilla Firefox,Google Keep,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-18T20:37:17+06:00,2017,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Notion,Proton Pass
+,Anonymous user,2025-12-18T23:08:25+06:00,2021,Linux Mint,x86_64,8GB,NixOS,Hyprland + Quickshell,হ্যাঁ,Hyprland,Kitty,Fish,None,Brave,,Bitwarden
+,Anonymous user,2025-12-19T00:36:30+06:00,2013,Ubuntu,x86_64,8GB,Fedora,KDE,হ্যাঁ,Hyprland,Kitty,Zsh,প্রভাত,Mozilla Firefox,Obsidian,"Bitwarden; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-19T03:23:32+06:00,2016,Ubuntu,x86_64,32GB,ArchLinux,KDE,হ্যাঁ,i3wm,Konsole,Zsh,অভ্র,Google Chrome,Evernote,Bitwarden
+,Anonymous user,2025-12-19T07:01:44+06:00,2022,Kali Linux,x86_64,16GB,Kali Linux,GNOME,হ্যাঁ,i3wm,GNOME Terminal,Bash,অভ্র,Brave,Google Keep,Proton Pass; Proton pass
+,Anonymous user,2025-12-19T22:55:43+06:00,2018,Ubuntu,x86_64,8GB,NixOS,None,হ্যাঁ,Hyprland,Alacritty,Fish,অভ্র,Google Chrome,Org Roam; Obsidian,
+,Anonymous user,2025-12-19T23:01:34+06:00,2023,Kali Linux,x86_64,4GB,Fedora,GNOME,না,GNOME Shell (Wayland),GNOME Terminal,Zsh,জাতীয়,Brave,Obsidian,Proton Pass
+,Anonymous user,2025-12-20T09:06:21+06:00,2018,Porteus XFCE,x86_64,16GB,Pop!_OS,XFCE,না,None,Xfce Terminal,Zsh,অভ্র,Mozilla Firefox,Nextcloud Notes,"KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-20T10:02:04+06:00,2018,Ubuntu,x86_64,16GB,Fedora,Hyprland,হ্যাঁ,Hyprland,Kitty,Zsh,প্রভাত,Google Chrome,Notion; Obsidian; Google Keep; Samsung Notes; Apple Notes,Proton Pass
+,Anonymous user,2025-12-20T10:13:11+06:00,2018,Debian,x86_64,32GB,Debian,GNOME,হ্যাঁ,Hyprland,Konsole,Zsh,অভ্র,Brave,Obsidian,Bitwarden
+,Anonymous user,2025-12-20T12:17:24+06:00,2025,ArchLinux,x86_64,8GB,ArchLinux,None,হ্যাঁ,Hyprland,Ghostty,Zsh,None,Zen Browser,Obsidian,Proton Pass
+,Anonymous user,2025-12-20T16:33:37+06:00,2018,Ubuntu,x86_64,8GB,Linux Mint,Cinnamon,না,None,GNOME Terminal,Zsh,অভ্র,Microsoft Edge,Google Keep; Apple Notes,2FAS Auth
+,Anonymous user,2025-12-21T01:21:15+06:00,2019,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,,Bash,অভ্র,Google Chrome,Google Keep; Notion,
+,Anonymous user,2025-12-21T10:02:57+06:00,2020,Ubuntu,x86_64,8GB,Fedora,GNOME,না,None,GNOME Terminal,Zsh,প্রভাত,Mozilla Firefox,Samsung Notes,None
+,Anonymous user,2025-12-21T12:04:15+06:00,2014,Linux Mint,x86_64,16GB,ArchLinux,Hyprland,হ্যাঁ,Hyprland,Kitty,Zsh,অভ্র,Google Chrome,Notion; Obsidian,Bitwarden
+,Anonymous user,2025-12-21T22:47:31+06:00,2023,Ubuntu,x86_64,8GB,Ubuntu,XFCE,না,,GNOME Terminal,Bash,জাতীয়,Google Chrome,Google Keep,
+,Anonymous user,2025-12-22T11:38:53+06:00,2022,Ubuntu,x86_64,4GB,Fedora Kinoite ,KDE,হ্যাঁ,i3wm,Konsole,Bash,পথ-মাঠ,Google Chrome,Notion,Proton Pass
+,Anonymous user,2025-12-22T18:01:00+06:00,2025,Debian,x86_64,8GB,Fedora,KDE,না,None,Konsole,None,ক্ষিপ্র,Google Chrome,,
+,Anonymous user,2025-12-22T22:40:17+06:00,2022,Ubuntu,x86,16GB,ArchLinux,Hyprland,হ্যাঁ,Hyprland,Ghostty,Fish,অভ্র,Brave,Notesnook,Proton Pass
+,Anonymous user,2025-12-23T08:56:40+06:00,,Ubuntu,,16GB,Ubuntu,,,,,Bash,অভ্র,Mozilla Firefox,Mi note,Bitwarden
+,Anonymous user,2025-12-23T15:04:56+06:00,2022,Fedora,x86_64,16GB,Fedora,GNOME,না,,GNOME Terminal,Bash,অভ্র,Zen Browser,Obsidian,"Bitwarden; KeePass (KeePassXC, KeePassDX)"
+,Anonymous user,2025-12-24T01:52:24+06:00,2018,Fedora,x86_64,16GB,Omarchy,GNOME,হ্যাঁ,Hyprland,Kitty,Zsh,অভ্র,Servo,MemoirCapsule,Bitwarden
+,Anonymous user,2025-12-24T08:34:45+06:00,2023,Red Hat,,32GB,Ubuntu,GNOME,না,Awesome,GNOME Terminal,Bash,জাতীয়,Google Chrome,Google Keep,Bitwarden
+,Anonymous user,2025-12-24T09:52:57+06:00,2017,Linux Mint,x86_64,8GB,EndevourOS,XFCE,হ্যাঁ,i3wm,GNOME Terminal,Zsh,অভ্র,Google Chrome,Notion; Obsidian; Evernote; Google Keep,Bitwarden
+,Anonymous user,2025-12-24T21:09:20+06:00,2011,Ubuntu,x86_64,24GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,অভ্র,Brave,Google Keep,Bitwarden
+,Anonymous user,2025-12-25T13:31:51+06:00,2013,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Zsh,প্রভাত,Brave,Notion; Standard Notes,Bitwarden
+,Anonymous user,2025-12-25T16:23:27+06:00,2022,ArchLinux,x86_64,16GB,ArchLinux,KDE,না,KWin,Konsole,Bash,অভ্র,,Telegram,
+,Anonymous user,2025-12-25T22:54:28+06:00,2022,Fedora,x86_64,16GB,Manjaro,KDE,হ্যাঁ,i3wm,Kitty,Fish,অভ্র,Mozilla Firefox,Obsidian,Bitwarden
+,Anonymous user,2025-12-27T03:34:00+06:00,,Kali Linux,arm64,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Zsh,অভ্র,Mozilla Firefox,Google Keep,
+,Anonymous user,2025-12-27T10:27:59+06:00,2006,Red Hat,x86_64,32GB,Alma Linux,GNOME,না,None,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Google Keep,Google Passward Manager
+,Anonymous user,2025-12-27T11:45:34+06:00,,Ubuntu,x86,32GB,Ubuntu,GNOME,হ্যাঁ,Awesome,Kitty,Bash,অভ্র,Microsoft Edge,Notion,
+,Anonymous user,2025-12-30T21:25:38+06:00,2011,Ubuntu,x86_64,8GB,Linux Mint,Cinnamon,না,None,GNOME Terminal,Zsh,,Vivaldi,Notion; Obsidian,Bitwarden
+,Anonymous user,2026-01-12T12:24:05+06:00,2023,ArchLinux,arm64,10GB,Void Linux,XFCE,না,i3wm,Xfce Terminal,Bash,অভ্র,Chromium,Mousepad,Bitwarden
+,Anonymous user,2026-01-27T10:46:39+06:00,2013,Linux Mint,x86_64,4GB,"Elementary os; Linux Mint",XFCE,না,,GNOME Terminal,,জাতীয়,Google Chrome,Google Keep,LastPass
+,Anonymous user,2026-02-02T13:57:00+06:00,,Ubuntu,x86_64,16GB,Ubuntu,GNOME,না,,GNOME Terminal,Bash,অভ্র,Mozilla Firefox,Obsidian,None
+,Anonymous user,2026-02-09T00:46:00+06:00,2020,Kali Linux,x86,6GB,Linux Mint,XFCE,না,,Xfce Terminal,Zsh,Google Input Tools,Brave,Notion,bolbona
