@@ -12,7 +12,7 @@ provider "cloudflare" {
 }
 
 locals {
-  github_pages_base = "https://linux-bangla.github.io"
+  github_pages_base = "linux-bangla.github.io"
   survey_base       = "https://${local.github_pages_base}/bd-linux-user-survey"
 
   # Add new years here when a new survey runs
