@@ -12,6 +12,9 @@ provider "cloudflare" {
 }
 
 locals {
+  github_pages_base = "https://linux-bangla.github.io"
+  survey_base       = "https://${local.github_pages_base}/bd-linux-user-survey"
+
   # Add new years here when a new survey runs
   survey_years = ["2025"]
   routes       = ["form", "data", "result"]
@@ -23,7 +26,7 @@ resource "cloudflare_record" "root" {
   zone_id = var.zone_id
   name    = "@"
   type    = "CNAME"
-  value   = "tex-lang.github.io"
+  value   = local.github_pages_base
   proxied = true
 }
 
@@ -31,7 +34,7 @@ resource "cloudflare_record" "www" {
   zone_id = var.zone_id
   name    = "www"
   type    = "CNAME"
-  value   = "tex-lang.github.io"
+  value   = local.github_pages_base
   proxied = true
 }
 
@@ -55,7 +58,7 @@ resource "cloudflare_ruleset" "survey_redirects" {
         from_value {
           status_code = 302
           target_url {
-            value = "https://tex-lang.github.io/survey/${rules.value}"
+            value = "${local.survey_base}/${rules.value}"
           }
           preserve_query_string = true
         }
@@ -82,7 +85,7 @@ resource "cloudflare_ruleset" "survey_redirects" {
         from_value {
           status_code = 301
           target_url {
-            value = "https://tex-lang.github.io/survey/${rules.value.year}/${rules.value.route}"
+            value = "${local.survey_base}/${rules.value.year}/${rules.value.route}"
           }
           preserve_query_string = true
         }
