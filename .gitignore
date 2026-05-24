@@ -7,4 +7,6 @@ tfplan
 
 # Secrets — never commit plaintext, only the .enc version
 infra/production.secrets.tfvars
+
+# Age key — never commit
 age.key
