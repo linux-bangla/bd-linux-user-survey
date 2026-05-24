@@ -1,0 +1,77 @@
+name: Terraform
+
+on:
+  push:
+    branches: [main]
+    paths: ["infra/**"]
+  pull_request:
+    paths: ["infra/**"]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  terraform:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: infra
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install sops
+        run: |
+          curl -Lo /usr/local/bin/sops https://github.com/getsops/sops/releases/latest/download/sops-v3.9.1.linux.amd64
+          chmod +x /usr/local/bin/sops
+
+      - name: Setup age key
+        env:
+          SOPS_AGE_KEY: ${{ secrets.SOPS_AGE_KEY }}
+        run: |
+          mkdir -p ~/.config/sops/age
+          echo "$SOPS_AGE_KEY" > ~/.config/sops/age/keys.txt
+          chmod 600 ~/.config/sops/age/keys.txt
+
+      - name: Decrypt secrets
+        run: |
+          sops --decrypt production.secrets.tfvars.enc > production.secrets.tfvars
+
+      - uses: hashicorp/setup-terraform@v3
+
+      - name: Init
+        run: terraform init
+
+      - name: Plan
+        id: plan
+        run: |
+          terraform plan \
+            -var-file="production.secrets.tfvars" \
+            -no-color 2>&1 | tee plan_output.txt
+
+      - name: Comment plan on PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const plan = fs.readFileSync('infra/plan_output.txt', 'utf8');
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '### Terraform Plan\n```\n' + plan + '\n```'
+            });
+
+      - name: Apply
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: |
+          terraform apply -auto-approve \
+            -var-file="production.secrets.tfvars"
+
+      - name: Cleanup
+        if: always()
+        run: |
+          rm -f production.secrets.tfvars
+          rm -f ~/.config/sops/age/keys.txt
