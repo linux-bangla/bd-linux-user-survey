@@ -15,22 +15,32 @@ provider "cloudflare" {
 locals {
   github_pages_base = "linux-bangla.github.io"
   survey_base       = "https://${local.github_pages_base}/bd-linux-user-survey"
-
   # Add new years here when a new survey runs
   survey_years = ["2025"]
   routes       = ["form", "data", "result"]
+
+  # GitHub Pages IPs
+  github_pages_ips = [
+    "185.199.108.153",
+    "185.199.109.153",
+    "185.199.110.153",
+    "185.199.111.153",
+  ]
 }
 
 # ── DNS ─────────────────────────────────────────────────────────────────────
 
+# Root @ → GitHub Pages IPs (CNAME not allowed at zone apex)
 resource "cloudflare_record" "root" {
-  zone_id = var.zone_id
-  name    = "@"
-  type    = "CNAME"
-  value   = local.github_pages_base
-  proxied = true
+  for_each = toset(local.github_pages_ips)
+  zone_id  = var.zone_id
+  name     = "@"
+  type     = "A"
+  content  = each.value
+  proxied  = true
 }
 
+# www → GitHub Pages
 resource "cloudflare_record" "www" {
   zone_id = var.zone_id
   name    = "www"
