@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+tfplan
+
+# Secrets — never commit plaintext, only the .enc version
+infra/production.secrets.tfvars
+age.key
