@@ -1,0 +1,6 @@
+# Copy this to production.secrets.tfvars, fill in values, then encrypt:
+#   sops --encrypt --age $(cat age.pub) production.secrets.tfvars > production.secrets.tfvars.enc
+#   rm production.secrets.tfvars  # never commit the plaintext
+
+cloudflare_api_token = "your-cloudflare-api-token-here"
+zone_id              = "your-cloudflare-zone-id-here"
