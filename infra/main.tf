@@ -45,7 +45,16 @@ resource "cloudflare_record" "www" {
   zone_id = var.zone_id
   name    = "www"
   type    = "CNAME"
-  value   = local.github_pages_base
+  content = local.github_pages_base
+  proxied = true
+}
+
+# cloud → old Nextcloud server
+resource "cloudflare_record" "cloud" {
+  zone_id = var.zone_id
+  name    = "cloud"
+  type    = "A"
+  content = "159.69.208.18"
   proxied = true
 }
 
